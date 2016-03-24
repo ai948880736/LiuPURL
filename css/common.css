@@ -1,0 +1,7 @@
+html,
+body {
+  max-width: 750px;
+  margin: 0 auto;
+  min-width: 320px;
+  font-family: "微软雅黑";
+}
